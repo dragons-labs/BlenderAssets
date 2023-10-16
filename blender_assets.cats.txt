@@ -1,0 +1,53 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+d21eb258-0f2f-4ec0-a7fe-e706638ce763:Materials:Materials
+f44c3c41-3336-45cd-905c-c921255a56ca:Materials/Building:Materials-Building
+e96da641-5ce7-43a1-8d95-3576b935b70c:Materials/Glass:Materials-Glass
+5c5dda01-48eb-4898-9968-7f49b6bd59d1:Materials/Metal:Materials-Metal
+07ad2f72-ceb3-49c9-b686-47c44f6e9051:Materials/Metal/Basic:Materials-Metal-Basic
+dcfb6e2d-9669-43a4-80a6-f53f99fad53a:Materials/Metal/Checkered:Materials-Metal-Checkered
+71ef12a8-7072-42ee-b657-4d1fd4ab51e1:Materials/Plastic-Like (Varnish, etc):Materials-Plastic-Like (Varnish, etc)
+f1aab223-a81c-44d1-a53c-05599da3fba7:Materials/Plastic-Like (Varnish, etc)/Mat:Materials-Plastic-Like (Varnish, etc)-Mat
+97332007-dc24-4901-b245-a217ccc35428:Materials/Plastic-Like (Varnish, etc)/Shiny:Materials-Plastic-Like (Varnish, etc)-Shiny
+1ee6e5bf-c051-4ea2-8a70-809cddb25e19:Materials/Special:Materials-Special
+3605ed21-2372-49c3-86ae-37418d06a0d8:Objects:Objects
+dbd8cd16-899c-4ed9-9530-393ce29da814:Objects/Electrical:Electrical
+f3b26fea-34cc-43ef-92c6-4f8f11d18aac:Objects/Electrical/Accessories:Electrical-Accessories
+ed85af60-9ac5-4a86-bf0e-d0edf2592d2d:Objects/Electrical/Accessories/Boxes:Electrical-Accessories-Boxes
+e947ba7d-2341-4740-a03b-bb7e41fb9949:Objects/Electrical/Accessories/Sockets:Electrical-Accessories-Sockets
+93dbbf7a-aff8-43d5-aed8-e7598b266090:Objects/Electrical/Accessories/Switches:Objects-Electrical-Accessories-Switches
+fbd35524-a666-42ad-bfdf-3b2fdd4801dd:Objects/Electrical/Light Fixtures:Electrical-Light Fixtures
+eada4058-807d-4a24-904b-7062dc1b1196:Objects/Electrical/Light Fixtures/Industrial:Electrical-Light Fixtures-Industrial
+c705261f-654c-4f39-bf00-d33e3a117aa6:Objects/Electrical/Light Fixtures/Industrial/Ceiling:Electrical-Light Fixtures-Industrial-Ceiling
+f9154a5d-9fe1-46a7-9a13-8cea6dbf0f06:Objects/Electrical/Light Fixtures/Industrial/Concealed:Objects-Electrical-Light Fixtures-Industrial-Concealed
+657d6456-df9e-4621-8475-fd16249607ed:Objects/Electrical/Light Fixtures/Industrial/Flood:Electrical-Light Fixtures-Industrial-Flood
+79edbaa7-1a5f-4bae-bcb7-e088f7fe4d00:Objects/Electrical/Light Fixtures/Industrial/Linear:Electrical-Light Fixtures-Industrial-Linear
+864887f5-97ee-41e9-a161-9774b6ed01ab:Objects/Electrical/Light Fixtures/Industrial/Standard:Electrical-Light Fixtures-Industrial-Standard
+d30be30b-0b82-4cad-9dd2-3bb41f6545a8:Objects/Electrical/Light Fixtures/Industrial/Wall Mount:Objects-Electrical-Light Fixtures-Industrial-Wall Mount
+c755d0be-cd67-499d-9fd9-587c847595cf:Objects/Electrical/Security Systems:Objects-Electrical-Security Systems
+3232f78f-b559-4a87-a907-e89fdf9dce9e:Objects/Electrical/Security Systems/CCTV Cameras:Objects-Electrical-Security Systems-CCTV Cameras
+9f5476fb-8820-47e7-8432-9288df7dcdd7:Objects/Electrical/Security Systems/Detectors:Objects-Electrical-Security Systems-Detectors
+1621c7d4-fca5-4622-ae56-d847403fc3e1:Objects/Electrical/Security Systems/Others:Objects-Electrical-Security Systems-Others
+4ae02b18-3e8a-46be-be0f-e1499409ef56:Objects/Electrical/Security Systems/Speakers:Objects-Electrical-Security Systems-Speakers
+d1ee1b0c-05f1-4393-847f-5585a7365797:Objects/Mounting:Mounting
+16a17840-52d3-493e-8ad5-df1f2f6a7830:Objects/Mounting/Cable trays (generators):Mounting-Cable trays (generators)
+785d5f89-2158-44d2-a5ab-438921427b82:Objects/Mounting/Other:Objects-Mounting-Other
+dd26d8ad-45c5-4993-9e2c-1f9f1459bfe7:Objects/Mounting/Profiles (generators):Mounting-Profiles (generators)
+5a2a87c4-6ee8-4d14-9e08-d426b993fe3d:Objects/Parts:Objects-Parts
+d1457d23-8c18-4a54-8494-eb9e739281ac:Objects/Parts/Connectors and Cables:Objects-Parts-Connectors and Cables
+35601c2e-4e78-4829-a22d-a80b62bb5b12:Objects/Parts/Screws:Objects-Parts-Screws
+76edea35-56c3-4818-adf7-e2396391534c:Objects/Tools:Objects-Tools
+50a22640-7290-4053-bd7c-92b5dd2aaf71:Objects/Tools/Cases and Containers:Objects-Tools-Cases and Containers
+fdfd14cb-8ce6-45d5-be5d-e67957763ac4:Objects/Tools/Mobile Electronics:Objects-Tools-Mobile Electronics
+c7db8c50-2d32-4c3a-bcb6-2a4a26d917f6:Poses:Poses
+3ec28a77-047d-4414-a091-5724533de42b:Poses/Electrical:Poses-Electrical
+342a3fae-d883-4782-a79f-285d670e1a2f:Poses/Electrical/Accessories:Poses-Electrical-Accessories
+3765083e-fbbd-4616-a416-1bd9243713ae:Poses/Electrical/Accessories/Switches Poses:Poses-Electrical-Accessories-Switches Poses
+37d3767d-8d77-4d6b-a57f-887f6b2c43d3:Poses/Electrical/Security Systems:Poses-Electrical-Security Systems
+c5949ddd-7009-4767-978a-84674384be67:Poses/Electrical/Security Systems/CCTV Cameras Poses:Poses-Electrical-Security Systems-CCTV Cameras Poses
