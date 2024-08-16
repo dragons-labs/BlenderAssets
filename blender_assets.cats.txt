@@ -8,6 +8,7 @@ VERSION 1
 
 d21eb258-0f2f-4ec0-a7fe-e706638ce763:Materials:Materials
 f44c3c41-3336-45cd-905c-c921255a56ca:Materials/Building:Materials-Building
+6a3dbcf0-a04c-47c8-b0bb-fabe216050ee:Materials/Cloth (Fabric, etc):Materials-Cloth (Fabric, etc)
 e96da641-5ce7-43a1-8d95-3576b935b70c:Materials/Glass:Materials-Glass
 5c5dda01-48eb-4898-9968-7f49b6bd59d1:Materials/Metal:Materials-Metal
 07ad2f72-ceb3-49c9-b686-47c44f6e9051:Materials/Metal/Basic:Materials-Metal-Basic
