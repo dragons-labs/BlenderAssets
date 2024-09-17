@@ -18,6 +18,10 @@ f1aab223-a81c-44d1-a53c-05599da3fba7:Materials/Plastic-Like (Varnish, etc)/Mat:M
 97332007-dc24-4901-b245-a217ccc35428:Materials/Plastic-Like (Varnish, etc)/Shiny:Materials-Plastic-Like (Varnish, etc)-Shiny
 1ee6e5bf-c051-4ea2-8a70-809cddb25e19:Materials/Special:Materials-Special
 3605ed21-2372-49c3-86ae-37418d06a0d8:Objects:Objects
+8b88ac9d-afa4-4bee-b1f7-d0996b0e0d34:Objects/Building Elements:Objects-Building Elements
+12c19908-1179-48ec-a8ca-015c4372ee53:Objects/Building Elements/Doors:Objects-Building Elements-Doors
+31d444ad-281a-4da4-8029-720e27f955d6:Objects/Building Elements/Doors/Complete:Objects-Building Elements-Doors-Complete
+af50e796-c4f4-4edd-9f05-e4acb2f60ac5:Objects/Building Elements/Doors/Components:Objects-Building Elements-Doors-Components
 dbd8cd16-899c-4ed9-9530-393ce29da814:Objects/Electrical:Electrical
 f3b26fea-34cc-43ef-92c6-4f8f11d18aac:Objects/Electrical/Accessories:Electrical-Accessories
 ed85af60-9ac5-4a86-bf0e-d0edf2592d2d:Objects/Electrical/Accessories/Boxes:Electrical-Accessories-Boxes
@@ -36,6 +40,11 @@ c755d0be-cd67-499d-9fd9-587c847595cf:Objects/Electrical/Security Systems:Objects
 9f5476fb-8820-47e7-8432-9288df7dcdd7:Objects/Electrical/Security Systems/Detectors:Objects-Electrical-Security Systems-Detectors
 1621c7d4-fca5-4622-ae56-d847403fc3e1:Objects/Electrical/Security Systems/Others:Objects-Electrical-Security Systems-Others
 4ae02b18-3e8a-46be-be0f-e1499409ef56:Objects/Electrical/Security Systems/Speakers:Objects-Electrical-Security Systems-Speakers
+a4abfa2b-33cc-4f52-b4f7-ac463e19217b:Objects/Furnitures:Objects-Furnitures
+51df8e44-6d9d-49ab-b3b8-fb4ee712502e:Objects/Hydraulics:Objects-Hydraulics
+013ef39f-aade-490b-b09e-c50d6ad7f615:Objects/Hydraulics/Others:Objects-Hydraulics-Others
+7b243e7e-7d37-4019-a43f-12a77f1b3b07:Objects/Hydraulics/Pipe fittings:Objects-Hydraulics-Pipe fittings
+921771c9-2bc7-4e52-ad38-046b996d53bd:Objects/Hydraulics/Valves:Objects-Hydraulics-Valves
 d1ee1b0c-05f1-4393-847f-5585a7365797:Objects/Mounting:Mounting
 16a17840-52d3-493e-8ad5-df1f2f6a7830:Objects/Mounting/Cable trays (generators):Mounting-Cable trays (generators)
 785d5f89-2158-44d2-a5ab-438921427b82:Objects/Mounting/Other:Objects-Mounting-Other
@@ -45,6 +54,7 @@ d1457d23-8c18-4a54-8494-eb9e739281ac:Objects/Parts/Connectors and Cables:Objects
 35601c2e-4e78-4829-a22d-a80b62bb5b12:Objects/Parts/Screws:Objects-Parts-Screws
 76edea35-56c3-4818-adf7-e2396391534c:Objects/Tools:Objects-Tools
 50a22640-7290-4053-bd7c-92b5dd2aaf71:Objects/Tools/Cases and Containers:Objects-Tools-Cases and Containers
+bd225b48-7856-41fb-901a-0e55e6846dce:Objects/Tools/Ladders:Objects-Tools-Ladders
 fdfd14cb-8ce6-45d5-be5d-e67957763ac4:Objects/Tools/Mobile Electronics:Objects-Tools-Mobile Electronics
 c7db8c50-2d32-4c3a-bcb6-2a4a26d917f6:Poses:Poses
 3ec28a77-047d-4414-a091-5724533de42b:Poses/Electrical:Poses-Electrical

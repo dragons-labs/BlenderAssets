@@ -13,7 +13,7 @@ Additionally contains a [modified startup file](Configs/UI_default.blend) and se
 Assets
 ------
 
-All files and assets in this repository (except auxiliary "Materials/TestChart.svg", which is a modification of [clipart](https://openclipart.org/detail/98815/tv-testscreen-by-firstl4rs) distributed as public domain) are made by me (Robert Paciorek) and are not derivative works (from other 3D models).
+All files and assets in this repository (except auxiliary "Materials/TestChart.svg", which is a modification of [clipart](https://openclipart.org/detail/98815/tv-testscreen-by-firstl4rs) distributed as public domain) are made by me (Robert Paciorek) and are not derivative works (from other 3D models nor materials/textures).
 
 ### More assets
 
